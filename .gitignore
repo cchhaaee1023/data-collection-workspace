@@ -134,6 +134,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# uv
+pyproject.toml
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -176,3 +180,5 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+./source
+/source
